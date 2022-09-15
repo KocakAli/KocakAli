@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Python and Django
 - 🌱 I’m currently learning Nodejs
-- 📫 How to reach me: kocakali5834@gmail.com
+- 📫 How to reach me: aliwkocak47@gmail.com
 
 
 <!--
