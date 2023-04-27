@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python and Django
+- 🔭 I’m currently working on Python(Django and Flask) C#(.Net Core)
 - 🌱 I’m currently learning Nodejs
 - 📫 How to reach me: aliwkocak47@gmail.com
 
