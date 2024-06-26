@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python(Django and Flask) and C#(.Net Core)
-- 🌱 I’m currently learning Nodejs
-- 📫 How to reach me: aliwkocak47@gmail.com
+- 🔭 I’m currently working on Python(Django and Flask), C#(.Net Core) and Javascript
+- 🌱 I’m currently learning ML
+- 📫 How to reach me: kocakali5834@gmail.com
 
 
 <!--
